@@ -34,12 +34,10 @@ body, html {
 
 .nav {
   background-color: #00DDFF;
-  grid-area: 2 / 2 / 3 / 3;
 }
 
 .article {
   background-color: #bccbde;
-  grid-area: 3 / 2 / 4 / 3;
 }
 
 .article p {
